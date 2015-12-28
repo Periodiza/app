@@ -8,19 +8,19 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Periodiza"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Tornando a academia mais personal e personal mais academia"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "Periodiza é uma plataforma que visa auxiliar Personal Trainers a atender uma maior quantidade de alunos mantendo sua qualidade, tornando o preço de seus serviços próximo ao de uma academia."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: jp
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -75,7 +75,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: "pt-BR"
 
 
 # Used › default.html front-matter and compress.html
@@ -153,17 +153,17 @@ bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
-touch-icon-192x192:                     "touch-icon-192x192.png"
-apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
-apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
-apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
-apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
-apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
-apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
-apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
-apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
-msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
-msapplication_tilecolor:                "#fabb00"
+touch-icon-192x192:                     "periodiza_touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "periodiza_apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "periodiza_apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "periodiza_apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "periodiza_apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "periodiza_apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "periodiza_apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "periodiza_apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "periodiza_apple-touch-icon-56x56-precomposed.png"
+msapplication_tileimage:                "periodiza_msapplication_tileimage-144x144.png"               # Size 144x144
+msapplication_tilecolor:                "#2d8787"
 
 
 #       ______                __                __

@@ -1,4 +1,4 @@
-@charset "utf-8";
+@charset "iso-8859-1";
 /* TOC
 
 - Adjustments: Video Layout
@@ -316,16 +316,16 @@ body.video cite { color: #fff; }
     padding: 0 0 20px 0;
   }
   a {
-    font-size: rem-calc(23);
+    font-size: rem-calc(60);
     display: block;
-    width: 36px;
+    width: 98px;
     border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
+    color: $footer-bg !important;
+    background: #ddd !important;
     text-align: center;
     &:hover {
-      background: $subfooter-bg;
-      color: #fff;
+      background: $footer-bg !important;
+      color: #ddd !important;
     }
   }
 }
