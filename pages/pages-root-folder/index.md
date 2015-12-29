@@ -46,6 +46,23 @@ permalink: /index.html
 homepage: true
 ---
 
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" >
+<form action="http://wix.us11.list-manage.com/subscribe/post?u=2b9a184f6b310cb68f93573e8&amp;id=5838e872d5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" class="row">
+	<div class="input-group col-md-6 container" style="margin-left:10%;">
+	    <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="email" style="width:70%; float:left; font-size:20px; height:51px;" required>
+	    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	    <div style="position: absolute; left: -5000px;"><input type="text" name="b_2b9a184f6b310cb68f93573e8_5838e872d5" tabindex="-1" value=""></div>
+	    <span class="input-group-btn">
+		<div class="clear"><input type="submit" value="Inscreva-se" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+	    </span>
+	</div> <!-- input-group -->
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/prIGUzP0H6I" frameborder="0" allowfullscreen></iframe>
